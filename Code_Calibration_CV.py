@@ -70,7 +70,7 @@ print("intrinsic matric :\n", mtx)
 
 #Focal length
 focal = mtx[0,0]
-focal *= 1e-3
+focal *= 1.4e-3
 print('focal length (mm): ',focal)
 
     
